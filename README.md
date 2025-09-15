@@ -1,5 +1,5 @@
 <h1 align="center">Yo!! 👋, I'm Manikanta Sai Sandeep</h1>
-<h3 align="center">n Aspiring Full Stack Developer | B.Tech CSE (AI & ML) | Competitive Programmer</h3>
+<h3 align="center">I'm Aspiring Full Stack Developer | B.Tech CSE (AI & ML) | Competitive Programmer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
